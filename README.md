@@ -1,7 +1,7 @@
 <h1 align="center">🔥 IP-INFO 🔥</h1>
 <p align="center">
   <strong>Advanced IP Tracker Tool using Python</strong><br>
-  <em>Created by Alok Thakur | YouTube: Firewall Breaker</em>
+  <em>Created by GUNJA RAHUL| YouTube: Gunja Rahul</em>
 </p>
 
 ---
@@ -27,7 +27,7 @@ It provides colorful and clear CLI output, and is specially crafted for ethical 
 
 ```bash
 # Step 1: Clone the tool from GitHub
-git clone https://github.com/thakur2309/IP-INFO.git
+https://github.com/Nanihac/IP-INFO-main.git
 cd IP-INFO
 
 # Step 2: Install Python (if not installed)
@@ -53,8 +53,8 @@ Use it only for **learning, awareness, and ethical research**.
 ---
 
 👨‍💻 **Author**  
-- Name: **Alok Thakur**  
-- YouTube: [🔥 Firewall Breaker](https://www.youtube.com/@FirewallBreaker09)
+- Name: **GUNJA RAHUL**  
+- YouTube: [🔥 Gunja Rahul](https://www.youtube.com/@gunjarahul7226)
 
 ---
 
@@ -63,26 +63,20 @@ If this tool helped you, kindly:
 
 - ⭐ Star the GitHub Repo  
 - 📲 Share with friends  
-- 📺 Subscribe to: [Firewall Breaker](https://www.youtube.com/@FirewallBreaker09)  
+- 📺 Subscribe to: [Gunja Rahul](https://www.youtube.com/@gunjarahul7226)
 - 💬 Comment your feedback on YouTube  
 
 ---
 
 ## 📌 Contact Me  
 
-<a href="https://youtube.com/@firewallbreaker09">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+<a href="https://www.youtube.com/@gunjarahul7226">
 </a>  
 <br>  
 
-<a href="https://github.com/thakur2309?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<a href="https://https://github.com/Nanihac/">
 </a>  
 <br>  
-
-<a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel">
-</a>
 
 
 
