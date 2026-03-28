@@ -9,7 +9,7 @@ os.system('clear' if os.name == 'posix' else 'cls')
 # Tool Header
 print("\033[1;34m" + "="*50)
 print("🔥 TOOL NAME : IP-INFO")
-print("🎯 Created by Alok Thakur")
+print("🎯 Created by Gunja Rahul")
 print("📺 YouTube: Firewall Breaker")
 print("📚 For Educational Purpose Only")
 print("="*50 + "\033[0m\n")
